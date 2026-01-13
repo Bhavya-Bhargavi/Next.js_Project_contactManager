@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "userId": "1"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@gmail.com",
+      "userId": "2"
+    },
+    {
+      "id": "e5b5",
+      "name": "bhavya",
+      "email": "bhavyad@gmail.com",
+      "userId": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "bhavya",
+      "email": "bhavya@test.com",
+      "password": "1234"
+    }
+  ]
+}
